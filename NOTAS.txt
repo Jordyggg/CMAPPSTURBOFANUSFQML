@@ -1,0 +1,20 @@
+NOTAS 
+
+Objetivo General
+Optimizar el mantenimiento predictivo de motores turbo fan mediante el uso de técnicas avanzadas de análisis de datos e inteligencia artificial para mejorar la eficiencia operativa, reducir costos y aumentar la seguridad.
+
+Objetivos Específicos
+1. 
+Desarrollar un modelo predictivo basado en inteligencia artificial que pueda identificar y predecir fallos en motores turbo fan con alta precisión.
+2. 
+Implementar un sistema de monitoreo en tiempo real que recopile y analice datos operativos de los motores, incluyendo temperatura, vibración y presión.
+3. 
+Evaluar la efectividad del modelo predictivo mediante pruebas y validaciones en entornos controlados y reales, asegurando su fiabilidad y precisión.
+4. 
+Reducir los costos de mantenimiento mediante la optimización de los intervalos de servicio y la minimización de reparaciones no planificadas.
+5. 
+Mejorar la seguridad operativa al prevenir fallos catastróficos a través de la detección temprana de anomalías y problemas potenciales.
+6. 
+Capacitar al personal técnico en el uso y mantenimiento del sistema predictivo, asegurando una correcta interpretación de los datos y la implementación de acciones correctivas.
+7. 
+Promover la sostenibilidad mediante la reducción del desperdicio de recursos y la prolongación de la vida útil de los componentes del motor.
